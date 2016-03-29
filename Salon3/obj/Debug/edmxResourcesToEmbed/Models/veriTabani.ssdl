@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sinemaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="admin">
+    <Key>
+      <PropertyRef Name="adminID" />
+    </Key>
+    <Property Name="ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="soyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="adres" Type="nvarchar" MaxLength="100" />
+    <Property Name="email" Type="nvarchar" MaxLength="50" />
+    <Property Name="adminID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="film">
+    <Key>
+      <PropertyRef Name="filmID" />
+    </Key>
+    <Property Name="filmID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="adminID" Type="int" Nullable="false" />
+    <Property Name="ozet" Type="nvarchar" MaxLength="500" />
+    <Property Name="ad" Type="nvarchar" MaxLength="100" />
+    <Property Name="begeni" Type="int" />
+    <Property Name="yonetmen" Type="nvarchar" MaxLength="100" />
+    <Property Name="vizyon" Type="nvarchar" MaxLength="50" />
+    <Property Name="eklemeTarihi" Type="datetime" />
+    <Property Name="kategoriID" Type="int" />
+    <Property Name="imdb" Type="money" />
+  </EntityType>
+  <EntityType Name="filmUye">
+    <Key>
+      <PropertyRef Name="filmUyeID" />
+    </Key>
+    <Property Name="filmUyeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="filmID" Type="int" Nullable="false" />
+    <Property Name="uyeID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="haber">
+    <Key>
+      <PropertyRef Name="haberID" />
+    </Key>
+    <Property Name="haberID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="konu" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="icerik" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="tiklama" Type="int" />
+    <Property Name="adminID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="kategoriID" />
+    </Key>
+    <Property Name="kategoriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kategoriad" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="resim">
+    <Key>
+      <PropertyRef Name="resimID" />
+    </Key>
+    <Property Name="resimID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="yol" Type="nvarchar" MaxLength="500" />
+    <Property Name="haberID" Type="int" />
+    <Property Name="filmID" Type="int" />
+  </EntityType>
+  <EntityType Name="slayder">
+    <Key>
+      <PropertyRef Name="slayderID" />
+    </Key>
+    <Property Name="slayderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="resimYol" Type="nvarchar" MaxLength="500" />
+    <Property Name="adı" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="uye">
+    <Key>
+      <PropertyRef Name="uyeID" />
+    </Key>
+    <Property Name="uyeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="email" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="video">
+    <Key>
+      <PropertyRef Name="videoID" />
+    </Key>
+    <Property Name="videoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="filmID" Type="int" />
+    <Property Name="yol" Type="nvarchar" MaxLength="500" />
+    <Property Name="ad" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="yorum">
+    <Key>
+      <PropertyRef Name="yoruID" />
+    </Key>
+    <Property Name="yoruID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ad" Type="nvarchar" MaxLength="50" />
+    <Property Name="icerik" Type="nvarchar" MaxLength="200" />
+    <Property Name="uyeID" Type="int" />
+    <Property Name="haberID" Type="int" />
+    <Property Name="filmID" Type="int" />
+  </EntityType>
+  <Association Name="FK_film_admin">
+    <End Role="admin" Type="Self.admin" Multiplicity="1" />
+    <End Role="film" Type="Self.film" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="admin">
+        <PropertyRef Name="adminID" />
+      </Principal>
+      <Dependent Role="film">
+        <PropertyRef Name="adminID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_film_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="0..1" />
+    <End Role="film" Type="Self.film" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="kategoriID" />
+      </Principal>
+      <Dependent Role="film">
+        <PropertyRef Name="kategoriID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_filmUye_film">
+    <End Role="film" Type="Self.film" Multiplicity="1" />
+    <End Role="filmUye" Type="Self.filmUye" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="film">
+        <PropertyRef Name="filmID" />
+      </Principal>
+      <Dependent Role="filmUye">
+        <PropertyRef Name="filmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_filmUye_uye">
+    <End Role="uye" Type="Self.uye" Multiplicity="1" />
+    <End Role="filmUye" Type="Self.filmUye" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="uye">
+        <PropertyRef Name="uyeID" />
+      </Principal>
+      <Dependent Role="filmUye">
+        <PropertyRef Name="uyeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_haber_admin">
+    <End Role="admin" Type="Self.admin" Multiplicity="1" />
+    <End Role="haber" Type="Self.haber" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="admin">
+        <PropertyRef Name="adminID" />
+      </Principal>
+      <Dependent Role="haber">
+        <PropertyRef Name="adminID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_resim_film">
+    <End Role="film" Type="Self.film" Multiplicity="0..1" />
+    <End Role="resim" Type="Self.resim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="film">
+        <PropertyRef Name="filmID" />
+      </Principal>
+      <Dependent Role="resim">
+        <PropertyRef Name="filmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_resim_haber">
+    <End Role="haber" Type="Self.haber" Multiplicity="0..1" />
+    <End Role="resim" Type="Self.resim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="haber">
+        <PropertyRef Name="haberID" />
+      </Principal>
+      <Dependent Role="resim">
+        <PropertyRef Name="haberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_video_film">
+    <End Role="film" Type="Self.film" Multiplicity="0..1" />
+    <End Role="video" Type="Self.video" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="film">
+        <PropertyRef Name="filmID" />
+      </Principal>
+      <Dependent Role="video">
+        <PropertyRef Name="filmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_yorum_film">
+    <End Role="film" Type="Self.film" Multiplicity="0..1" />
+    <End Role="yorum" Type="Self.yorum" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="film">
+        <PropertyRef Name="filmID" />
+      </Principal>
+      <Dependent Role="yorum">
+        <PropertyRef Name="filmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_yorum_haber">
+    <End Role="haber" Type="Self.haber" Multiplicity="0..1" />
+    <End Role="yorum" Type="Self.yorum" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="haber">
+        <PropertyRef Name="haberID" />
+      </Principal>
+      <Dependent Role="yorum">
+        <PropertyRef Name="haberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_yorum_uye">
+    <End Role="uye" Type="Self.uye" Multiplicity="0..1" />
+    <End Role="yorum" Type="Self.yorum" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="uye">
+        <PropertyRef Name="uyeID" />
+      </Principal>
+      <Dependent Role="yorum">
+        <PropertyRef Name="uyeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="sinemaModelStoreContainer">
+    <EntitySet Name="admin" EntityType="Self.admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="film" EntityType="Self.film" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="filmUye" EntityType="Self.filmUye" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="haber" EntityType="Self.haber" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="resim" EntityType="Self.resim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="slayder" EntityType="Self.slayder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="uye" EntityType="Self.uye" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="video" EntityType="Self.video" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="yorum" EntityType="Self.yorum" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_film_admin" Association="Self.FK_film_admin">
+      <End Role="admin" EntitySet="admin" />
+      <End Role="film" EntitySet="film" />
+    </AssociationSet>
+    <AssociationSet Name="FK_film_Kategori" Association="Self.FK_film_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="film" EntitySet="film" />
+    </AssociationSet>
+    <AssociationSet Name="FK_filmUye_film" Association="Self.FK_filmUye_film">
+      <End Role="film" EntitySet="film" />
+      <End Role="filmUye" EntitySet="filmUye" />
+    </AssociationSet>
+    <AssociationSet Name="FK_filmUye_uye" Association="Self.FK_filmUye_uye">
+      <End Role="uye" EntitySet="uye" />
+      <End Role="filmUye" EntitySet="filmUye" />
+    </AssociationSet>
+    <AssociationSet Name="FK_haber_admin" Association="Self.FK_haber_admin">
+      <End Role="admin" EntitySet="admin" />
+      <End Role="haber" EntitySet="haber" />
+    </AssociationSet>
+    <AssociationSet Name="FK_resim_film" Association="Self.FK_resim_film">
+      <End Role="film" EntitySet="film" />
+      <End Role="resim" EntitySet="resim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_resim_haber" Association="Self.FK_resim_haber">
+      <End Role="haber" EntitySet="haber" />
+      <End Role="resim" EntitySet="resim" />
+    </AssociationSet>
+    <AssociationSet Name="FK_video_film" Association="Self.FK_video_film">
+      <End Role="film" EntitySet="film" />
+      <End Role="video" EntitySet="video" />
+    </AssociationSet>
+    <AssociationSet Name="FK_yorum_film" Association="Self.FK_yorum_film">
+      <End Role="film" EntitySet="film" />
+      <End Role="yorum" EntitySet="yorum" />
+    </AssociationSet>
+    <AssociationSet Name="FK_yorum_haber" Association="Self.FK_yorum_haber">
+      <End Role="haber" EntitySet="haber" />
+      <End Role="yorum" EntitySet="yorum" />
+    </AssociationSet>
+    <AssociationSet Name="FK_yorum_uye" Association="Self.FK_yorum_uye">
+      <End Role="uye" EntitySet="uye" />
+      <End Role="yorum" EntitySet="yorum" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

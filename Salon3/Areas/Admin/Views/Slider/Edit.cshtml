@@ -1,0 +1,46 @@
+﻿@model Salon3.Models.slayder
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="container">
+    <h3 style="text-align:center">Düzenle</h3><br />
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.slayderID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.resimYol, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-7">
+                    @Html.EditorFor(model => model.resimYol, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.resimYol, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.adı, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-7">
+                    @Html.EditorFor(model => model.adı, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.adı, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <button type="submit" value="Save" class="btn btn-info" ><i class="fa fa-floppy-o"></i> Kaydet</button>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        <button type="button" class="btn btn-info"><i class="fa fa-reply-all"></i> @Html.ActionLink("Geri Dön", "Index")</button>
+    </div>
+    </div>

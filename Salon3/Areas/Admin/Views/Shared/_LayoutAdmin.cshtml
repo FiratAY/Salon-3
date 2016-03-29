@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Document</title>
+
+
+    <link type="text/css" rel="stylesheet" href="~/Areas/font-awesome-4.5.0/css/font-awesome.min.css" />
+    <link href='http://fonts.googleapis.com/css?family=Asul:400,700' rel='stylesheet' type='text/css'>
+    <link type="text/css" rel="stylesheet" href="~/Areas/sideviewmenu.css" />
+    <link type="text/css" rel="stylesheet" href="~/Content/bootstrap-theme.min.css.map" />
+    <link type="text/css" rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="~/Areas/sideviewmenu.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="~/Areas/app.js"></script>
+    <script>
+
+jQuery(function(){ // on DOM Load
+	sideviewmenu({ // call sideviewmenu() function
+		menuid: 'sideviewmenu',
+		onopenclose:function(state){ // state is either "open" or "closed"
+			// custom code
+		}
+	})
+})
+
+jQuery(function(){ // on DOM Load
+ sideviewmenu({ // call sideviewmenu() function
+  menusource: 'inline',
+  main_transition_duration: 0.4,
+  onopenclose:function(state){ // state is either "open" or "closed"
+   if (state == 'open')
+    alert('Menu is now open')
+  }
+ })
+})
+    </script>
+
+</head>
+<body>
+    
+    <div id="adminpanel" style="background:#7A7979">
+        <div class="toggler" onClick="sideviewmenu.toggle()"><i stye="margin-left:10px" class="fa fa-bars fa-3x"></i></div>
+        <i style="position:absolute ;margin-left:150px;margin-top:-47px ; color:white;margin-right:300px" class="fa fa-user fa-3x">&nbsp;Admin Paneli</i>
+        <div id="sideviewmenu">
+
+            <ul class="menulinks">
+                <li>@Html.ActionLink("film Düzenle", "Index", "filmAdmin")</li>
+                <hr />
+                <li>@Html.ActionLink("Slider Düzenle", "Index", "Slider")</li>
+                <hr />
+                <li>@Html.ActionLink("Kategori Düzenle", "Index", "KategoriAdmin")</li>
+                <hr />
+                <li>@Html.ActionLink("Üye Düzenle", "Index", "uyeAdmin")</li>
+                <hr />
+                <li>@Html.ActionLink("Resim Düzenle", "Index", "resims")</li>
+                <hr />
+                <li>@Html.ActionLink("Video Düzenle", "Index", "videos")</li>
+            </ul>
+
+        </div>
+    </div>
+    @RenderBody()
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Detay";
+}
+ 
+
+<div class="container" style="font-family:calibri ; background : transparent ">
+    <div class="row">
+        <div class="col-md-9" style="background : white ; margin-left : 15px ; margin-right : 15px">
+            <iframe width="700" height="338" src="@ViewBag.vid.yol" frameborder="0" allowfullscreen style="margin-left : 75px"></iframe><hr />
+                <div style="margin-left:75px ; margin-right : 75px">
+                    <h4 style="color : #950606">@ViewBag.film.ad</h4>
+                    @if (ViewBag.film.ozet != null)
+                    {
+                        @ViewBag.film.ozet
+                    }
+                        
+                </div> <hr />
+                <form style="padding -left : 30px ; padding-right : 30px ; margin-left : 75px ">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Email</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">@Salon3.Resources.Home.sifre</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Şifre">
+                    </div>
+                    <div class="form-group">
+                    </div>
+                    <label for="exampleInputEmail1">@Salon3.Resources.Home.yorum</label>
+                    <textarea class="form-control" rows="3"></textarea><br />
+                    <button type="submit" class="btn btn-default">@Salon3.Resources.Home.gonder</button>
+                </form>
+
+               
+
+
+        </div>
+        <div class="col-md-2" style="background : white ; margin-left : 15px ; margin-right : 15px">
+             <img class="img-responsive" src="@ViewBag.resim.yol" alt="#"/><br/>
+            <b>@Salon3.Resources.Home.kayittarihi</b>: @ViewBag.film.eklemeTarihi.ToString("dd MM yyyy")<br /><hr />
+           @*<b>Tür</b> : @ViewBag.film.Kategori<br /><hr />*@
+            <b>@Salon3.Resources.Home.yonetmen</b> : @ViewBag.film.yonetmen<br /><hr />
+            <b>IMDB @Salon3.Resources.Home.puan</b> : @Math.Round(ViewBag.film.imdb,1)<br /><hr />
+            <b>@Salon3.Resources.Home.begenisayisi</b> : @ViewBag.film.begeni<br /><hr />
+            <b>@Salon3.Resources.Home.vizyondurumu</b> : @ViewBag.film.vizyon<hr />
+        </div>
+    </div>
+</div>

@@ -1,0 +1,194 @@
+body {
+	background: none;
+	font-family: Prociono ;
+}
+
+a {
+	text-decoration: none 
+}
+
+a:hover {
+	text-decoration: none
+}
+
+#logo a{
+	color : black;
+}
+
+
+
+.arkaplan {
+  background: url(arkaplan.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+	background: white ;
+	padding: 0px
+
+}
+
+#slider {
+	margin-top: -20px
+}
+
+#slider .item img {
+	min-height : 500px!important;
+    max-height: 500px!important ;
+	width: 100%!important;
+}
+
+nav {
+	font-family: coolvetica ;
+	font-size: 15px;
+}
+
+nav li a.aktif {
+	background: #ddd
+}
+
+nav ul li#alttire:hover {
+	border-bottom : 2px solid orange;
+}
+
+.panel-body a p {
+	margin-top: 10px;
+	font-family: arial ;
+	color : black;
+	font-size: 14px ;
+}
+#footer {
+	background: transparent ;
+	border:none 
+}
+strong.footerbaslik {
+	color :#FC3939;
+	font-size: 20px;
+}
+.footeraltkisim{
+	color:white;
+}
+p.sos {
+	color:white;
+}
+.sosyalmedia {
+	float : left;
+}
+
+			/* Hakkımızda */
+
+p.hakkimizda {
+	color:black;
+	font-family: arial;
+}
+
+
+
+			/* Aksiyon */
+
+#kategoriler {
+	font-family: arial ;
+}
+
+ul , li {
+	margin 0 ; 
+	padding 0 ; 
+	list-style:none
+}
+ul#liste {
+	padding : 20px 
+}
+ul#liste li { 
+	background-color:#eee ;  
+	border-bottom:1px solid #ddd ;
+	margin-top : 15px;
+}
+#sayfalama {
+	padding:0 20px 20px 20px ;
+	text-align: center 
+}
+#sayfalama a {
+	color:black ; 
+	background:gray ; 
+	padding: 3px 7px ; 
+	margin-right:6px ; 
+	text-decoration:none}
+#sayfalama a.aktif {
+	background:orange
+}
+#sayfalama a:hover {
+	border : 1px solid black;
+	background: #ddd ;
+}
+#imdbpuan { 
+	background: url(..//img/who-am-i.jpg) ;
+	height:100px;
+    width:100px;
+}
+p#puan {
+	position:absolute ;  
+	margin-left:20px ;
+	 margin-top:25px ; 
+	 color:orange ;
+	 font-family: arial ;
+	 font-size: 20px;
+	 text-align: center ;
+}
+span#puan {
+	position:absolute ;  
+	margin-left:52px ;
+	 margin-top:30px ; 
+	 color:white ;
+	 font-family: arial ;
+	 font-size: 14px;
+	 text-align: center ;
+}
+span#puanyazi {
+	position:absolute ;  
+	margin-left:32px ;
+	 margin-top:53px ; 
+	 color:white ;
+	 font-family: arial ;
+	 font-size: 14px;
+	 text-align: center ;
+}
+
+	/* Üye Girişi Sayfası */
+
+    #loginForm {
+   padding-left : 100px;
+   padding-right : 150px 
+    }
+
+    /* Üye ol */
+
+    #uyeol {
+   padding-left : 100px;
+   padding-right : 150px 
+    }
+
+    /* Üyelik (Ana sayfadaki üye gişi ve üye ol yazısı) */
+      li#uyelik1 a {
+        color : gray ; 
+        border-right : 2px solid gray
+    }
+
+    li#uyelik a {
+        color : gray
+    }
+
+    img#haftafilm {
+        max-height : 100px;
+        min-height : 100px;
+        width:100%!important
+    }
+
+    img#soneklenen {
+        max-height : 250px;
+        min-height : 250px;
+        width : 100%!important
+    }
+

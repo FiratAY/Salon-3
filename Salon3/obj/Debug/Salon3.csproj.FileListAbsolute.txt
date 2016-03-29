@@ -1,0 +1,909 @@
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\csc.exe
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\vbc.exe
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\VBCSCompiler.exe
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Salon3.dll.config
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Salon3.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Salon3.pdb
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Antlr3.Runtime.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\EntityFramework.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\EntityFramework.SqlServer.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Newtonsoft.Json.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Owin.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Helpers.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Mvc.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Optimization.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Razor.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.WebPages.Deployment.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.WebPages.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.WebPages.Razor.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\WebGrease.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Helpers.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Mvc.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Optimization.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.Razor.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.WebPages.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.WebPages.Deployment.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\System.Web.WebPages.Razor.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Antlr3.Runtime.pdb
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Newtonsoft.Json.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\EntityFramework.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\EntityFramework.SqlServer.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\obj\Debug\Salon3.dll
+c:\users\selim\documents\visual studio 2015\Projects\Salon3\Salon3\obj\Debug\Salon3.pdb
+E:\Salon3\Salon3\bin\roslyn\csc.exe
+E:\Salon3\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Salon3\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Salon3\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Salon3\Salon3\bin\roslyn\System.Collections.Immutable.dll
+E:\Salon3\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Salon3\Salon3\bin\roslyn\vbc.exe
+E:\Salon3\Salon3\bin\roslyn\VBCSCompiler.exe
+E:\Salon3\Salon3\bin\roslyn\VBCSCompiler.exe.config
+E:\Salon3\Salon3\bin\Salon3.dll.config
+E:\Salon3\Salon3\bin\Salon3.dll
+E:\Salon3\Salon3\bin\Salon3.pdb
+E:\Salon3\Salon3\bin\Antlr3.Runtime.dll
+E:\Salon3\Salon3\bin\EntityFramework.dll
+E:\Salon3\Salon3\bin\EntityFramework.SqlServer.dll
+E:\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Salon3\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Salon3\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Google.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Salon3\Salon3\bin\Microsoft.Web.Infrastructure.dll
+E:\Salon3\Salon3\bin\Newtonsoft.Json.dll
+E:\Salon3\Salon3\bin\Owin.dll
+E:\Salon3\Salon3\bin\System.Web.Helpers.dll
+E:\Salon3\Salon3\bin\System.Web.Mvc.dll
+E:\Salon3\Salon3\bin\System.Web.Optimization.dll
+E:\Salon3\Salon3\bin\System.Web.Razor.dll
+E:\Salon3\Salon3\bin\System.Web.WebPages.Deployment.dll
+E:\Salon3\Salon3\bin\System.Web.WebPages.dll
+E:\Salon3\Salon3\bin\System.Web.WebPages.Razor.dll
+E:\Salon3\Salon3\bin\WebGrease.dll
+E:\Salon3\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Salon3\Salon3\bin\System.Web.Helpers.xml
+E:\Salon3\Salon3\bin\System.Web.Mvc.xml
+E:\Salon3\Salon3\bin\System.Web.Optimization.xml
+E:\Salon3\Salon3\bin\System.Web.Razor.xml
+E:\Salon3\Salon3\bin\System.Web.WebPages.xml
+E:\Salon3\Salon3\bin\System.Web.WebPages.Deployment.xml
+E:\Salon3\Salon3\bin\System.Web.WebPages.Razor.xml
+E:\Salon3\Salon3\bin\Antlr3.Runtime.pdb
+E:\Salon3\Salon3\bin\Newtonsoft.Json.xml
+E:\Salon3\Salon3\bin\EntityFramework.xml
+E:\Salon3\Salon3\bin\EntityFramework.SqlServer.xml
+E:\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Salon3\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Google.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Salon3\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Salon3\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+E:\Salon3\Salon3\obj\Debug\Salon3.dll
+E:\Salon3\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-1\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama7\Salon3\obj\Debug\en\Salon3.resources.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\csc.exe
+E:\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Salon3-aşama8\Salon3\bin\roslyn\System.Collections.Immutable.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Salon3-aşama8\Salon3\bin\roslyn\vbc.exe
+E:\Salon3-aşama8\Salon3\bin\roslyn\VBCSCompiler.exe
+E:\Salon3-aşama8\Salon3\bin\roslyn\VBCSCompiler.exe.config
+E:\Salon3-aşama8\Salon3\bin\Resources\Home.resx
+E:\Salon3-aşama8\Salon3\bin\Resources\Home.en.resx
+E:\Salon3-aşama8\Salon3\bin\Resources\Home.en.Designer.cs
+E:\Salon3-aşama8\Salon3\bin\Resources\Home.Designer.cs
+E:\Salon3-aşama8\Salon3\bin\Salon3.dll.config
+E:\Salon3-aşama8\Salon3\bin\Salon3.dll
+E:\Salon3-aşama8\Salon3\bin\Salon3.pdb
+E:\Salon3-aşama8\Salon3\bin\en\Salon3.resources.dll
+E:\Salon3-aşama8\Salon3\bin\Antlr3.Runtime.dll
+E:\Salon3-aşama8\Salon3\bin\EntityFramework.dll
+E:\Salon3-aşama8\Salon3\bin\EntityFramework.SqlServer.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Google.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Web.Infrastructure.dll
+E:\Salon3-aşama8\Salon3\bin\Newtonsoft.Json.dll
+E:\Salon3-aşama8\Salon3\bin\Owin.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.Helpers.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.Mvc.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.Optimization.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.Razor.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Deployment.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.WebPages.dll
+E:\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Razor.dll
+E:\Salon3-aşama8\Salon3\bin\WebGrease.dll
+E:\Salon3-aşama8\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.Helpers.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.Mvc.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.Optimization.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.Razor.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.WebPages.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Deployment.xml
+E:\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Razor.xml
+E:\Salon3-aşama8\Salon3\bin\Antlr3.Runtime.pdb
+E:\Salon3-aşama8\Salon3\bin\Newtonsoft.Json.xml
+E:\Salon3-aşama8\Salon3\bin\EntityFramework.xml
+E:\Salon3-aşama8\Salon3\bin\EntityFramework.SqlServer.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Google.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Salon3-aşama8\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+E:\Salon3-aşama8\Salon3\obj\Debug\Salon3.Resources.Home.resources
+E:\Salon3-aşama8\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+E:\Salon3-aşama8\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+E:\Salon3-aşama8\Salon3\obj\Debug\en\Salon3.resources.dll
+E:\Salon3-aşama8\Salon3\obj\Debug\Salon3.dll
+E:\Salon3-aşama8\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama8\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama9\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama11 rol yönetimi\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\csc.exe
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\vbc.exe
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\VBCSCompiler.exe
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.resx
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.en.resx
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.en.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Resources\Home.Designer.cs
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.dll.config
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Salon3.pdb
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Antlr3.Runtime.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.SqlServer.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Newtonsoft.Json.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Owin.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Helpers.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Mvc.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Optimization.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Razor.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\WebGrease.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Helpers.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Mvc.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Optimization.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\System.Web.WebPages.Razor.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Antlr3.Runtime.pdb
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Newtonsoft.Json.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\EntityFramework.SqlServer.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.csprojResolveAssemblyReference.cache
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.Resources.Home.resources
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.Resources.Home.en.resources
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.csproj.GenerateResource.Cache
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\en\Salon3.resources.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.dll
+C:\Users\fırat\Desktop\FIRAT\1 BENİM ÇALIŞMALARIM\Web Proje\Salon3-aşama12 son düzenlemeler\Salon3\obj\Debug\Salon3.pdb

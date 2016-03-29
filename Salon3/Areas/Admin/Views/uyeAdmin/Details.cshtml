@@ -1,0 +1,36 @@
+﻿@model Salon3.Models.uye
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="container">
+    <h3 style="text-align:center">Detay</h3><br />
+
+    <div>
+       
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ad)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ad)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.email)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.email)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        <button type="button" class="btn btn-success"><i class="fa fa-pencil-square-o"></i> @Html.ActionLink("Edit", "Edit", new { id = Model.uyeID }) </button>
+        <button type="button" class="btn btn-info"><i class="fa fa-reply-all"></i> @Html.ActionLink("Geri Dön", "Index")</button>
+    </p>
+    </div>

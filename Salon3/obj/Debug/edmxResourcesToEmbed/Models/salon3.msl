@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sinemaModelStoreContainer" CdmEntityContainer="sinemaEntities">
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="sinemaModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="adminID" ColumnName="adminID" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="soyAd" ColumnName="soyAd" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="dogumTarihi" ColumnName="dogumTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="film">
+      <EntityTypeMapping TypeName="sinemaModel.film">
+        <MappingFragment StoreEntitySet="film">
+          <ScalarProperty Name="filmID" ColumnName="filmID" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="puan" ColumnName="puan" />
+          <ScalarProperty Name="begeni" ColumnName="begeni" />
+          <ScalarProperty Name="ozet" ColumnName="ozet" />
+          <ScalarProperty Name="kategori" ColumnName="kategori" />
+          <ScalarProperty Name="vizyonDurumu" ColumnName="vizyonDurumu" />
+          <ScalarProperty Name="yonetmen" ColumnName="yonetmen" />
+          <ScalarProperty Name="goruntulenme" ColumnName="goruntulenme" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="filmUye">
+      <EntityTypeMapping TypeName="sinemaModel.filmUye">
+        <MappingFragment StoreEntitySet="filmUye">
+          <ScalarProperty Name="filmUyeID" ColumnName="filmUyeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="haber">
+      <EntityTypeMapping TypeName="sinemaModel.haber">
+        <MappingFragment StoreEntitySet="haber">
+          <ScalarProperty Name="haberID" ColumnName="haberID" />
+          <ScalarProperty Name="eklemeTarihi" ColumnName="eklemeTarihi" />
+          <ScalarProperty Name="konu" ColumnName="konu" />
+          <ScalarProperty Name="içerik" ColumnName="içerik" />
+          <ScalarProperty Name="begeni" ColumnName="begeni" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="haberUye">
+      <EntityTypeMapping TypeName="sinemaModel.haberUye">
+        <MappingFragment StoreEntitySet="haberUye">
+          <ScalarProperty Name="haberUyeID" ColumnName="haberUyeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="resim">
+      <EntityTypeMapping TypeName="sinemaModel.resim">
+        <MappingFragment StoreEntitySet="resim">
+          <ScalarProperty Name="resimID" ColumnName="resimID" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="resimYol" ColumnName="resimYol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uye">
+      <EntityTypeMapping TypeName="sinemaModel.uye">
+        <MappingFragment StoreEntitySet="uye">
+          <ScalarProperty Name="uyeID" ColumnName="uyeID" />
+          <ScalarProperty Name="ad" ColumnName="ad" />
+          <ScalarProperty Name="soyAd" ColumnName="soyAd" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="yorum">
+      <EntityTypeMapping TypeName="sinemaModel.yorum">
+        <MappingFragment StoreEntitySet="yorum">
+          <ScalarProperty Name="yorumID" ColumnName="yorumID" />
+          <ScalarProperty Name="begeni" ColumnName="begeni" />
+          <ScalarProperty Name="icerik" ColumnName="icerik" />
+          <ScalarProperty Name="eklemeTarihi" ColumnName="eklemeTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_film_Admin" TypeName="sinemaModel.FK_film_Admin" StoreEntitySet="film">
+      <EndProperty Name="Admin">
+        <ScalarProperty Name="adminID" ColumnName="adminID" />
+      </EndProperty>
+      <EndProperty Name="film">
+        <ScalarProperty Name="filmID" ColumnName="filmID" />
+      </EndProperty>
+      <Condition IsNull="false" ColumnName="adminID" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_haber_Admin" TypeName="sinemaModel.FK_haber_Admin" StoreEntitySet="haber">
+      <EndProperty Name="Admin">
+        <ScalarProperty Name="adminID" ColumnName="adminID" />
+      </EndProperty>
+      <EndProperty Name="haber">
+        <ScalarProperty Name="haberID" ColumnName="haberID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_filmUye_film" TypeName="sinemaModel.FK_filmUye_film" StoreEntitySet="filmUye">
+      <EndProperty Name="film">
+        <ScalarProperty Name="filmID" ColumnName="filmID" />
+      </EndProperty>
+      <EndProperty Name="filmUye">
+        <ScalarProperty Name="filmUyeID" ColumnName="filmUyeID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_resim_film" TypeName="sinemaModel.FK_resim_film" StoreEntitySet="resim">
+      <EndProperty Name="film">
+        <ScalarProperty Name="filmID" ColumnName="filmID" />
+      </EndProperty>
+      <EndProperty Name="resim">
+        <ScalarProperty Name="resimID" ColumnName="resimID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_yorum_film" TypeName="sinemaModel.FK_yorum_film" StoreEntitySet="yorum">
+      <EndProperty Name="film">
+        <ScalarProperty Name="filmID" ColumnName="filmID" />
+      </EndProperty>
+      <EndProperty Name="yorum">
+        <ScalarProperty Name="yorumID" ColumnName="yorumID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_filmUye_uye" TypeName="sinemaModel.FK_filmUye_uye" StoreEntitySet="filmUye">
+      <EndProperty Name="uye">
+        <ScalarProperty Name="uyeID" ColumnName="uyeID" />
+      </EndProperty>
+      <EndProperty Name="filmUye">
+        <ScalarProperty Name="filmUyeID" ColumnName="filmUyeID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_haberUye_haber" TypeName="sinemaModel.FK_haberUye_haber" StoreEntitySet="haberUye">
+      <EndProperty Name="haber">
+        <ScalarProperty Name="haberID" ColumnName="haberID" />
+      </EndProperty>
+      <EndProperty Name="haberUye">
+        <ScalarProperty Name="haberUyeID" ColumnName="haberUyeID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_haberUye_uye" TypeName="sinemaModel.FK_haberUye_uye" StoreEntitySet="haberUye">
+      <EndProperty Name="uye">
+        <ScalarProperty Name="uyeID" ColumnName="uyeID" />
+      </EndProperty>
+      <EndProperty Name="haberUye">
+        <ScalarProperty Name="haberUyeID" ColumnName="haberUyeID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

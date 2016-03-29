@@ -1,0 +1,34 @@
+﻿@{ 
+    Layout = null;
+}
+        <div class="carousel-inner">
+            @{ 
+                Salon3.Models.resim r = new Salon3.Models.resim();
+            }
+           
+            <div>
+                <div class="item active">
+                    <a href="/Filmler/Detay/1021" title="">
+                        <img src="http://megaoyunfilm.net/uploads/images/d%C3%BC%C4%9F%C3%BCn%20dernek%20orijinal%20film%20m%C3%BCzikleri%20(1).jpg" alt="" title="" longdesc="" />
+                    </a>
+                    <div class="carousel-caption">
+
+                    </div>
+                </div>
+            </div>
+           
+
+            @foreach (var item in ViewBag.resim)
+            {
+                <div class="item">
+                    <a href="/Filmler/Detay/@item.filmID" title="">
+                        <img class="img-responsive" src="@item.yol" alt="" longdesc="" />
+                    </a>
+
+                    <div class="carousel-caption">
+                    </div>
+                </div>
+
+            }
+        </div>
+       

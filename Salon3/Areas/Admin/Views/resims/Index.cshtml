@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Salon3.Models.resim>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3 style="text-align:center">Resim Düzenle</h3><br />
+
+<p>
+    <button style="margin-left : 10px" type="button" class="btn btn-primary"><i class="fa fa-check"></i> @Html.ActionLink("Yeni Kayıt", "Create")</button>
+</p>
+<table class="table table-striped ">
+    <tr class="info">
+        <th>
+            Ad
+        </th>
+        <th style="width:200px">
+           Resim Yolu
+        </th>
+        <th>
+            Film Ad
+        </th>
+        <th>
+            Konu
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ad)
+            </td>
+            <td style="max-width:200px!important ; overflow : hidden ; white-space : nowrap ; text-overflow : ellipsis">
+                @Html.DisplayFor(modelItem => item.yol)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.film.ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.haber.konu)
+            </td>
+            <td>
+                <button type="button" class="btn btn-info"><i class="fa fa-pencil-square-o"></i> @Html.ActionLink("Edit", "Edit", new { id = item.resimID }) </button>
+                <button type="button" class="btn btn-success"><i class="fa fa-wrench"></i> @Html.ActionLink("Details", "Details", new { id = item.resimID }) </button>
+                <button type="button" class="btn btn-danger"><i class="fa fa-times"></i> @Html.ActionLink("Delete", "Delete", new { id = item.resimID })</button>
+            </td>
+        </tr>
+    }
+
+</table>

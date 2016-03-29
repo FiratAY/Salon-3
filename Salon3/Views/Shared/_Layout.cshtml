@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Salon3.Models.Kategori>
+<!DOCTYPE html>
+<html class="arkaplan" lang="tr" ng-app="App">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title - Salon 3</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/Content/bootstrap-theme.min.css">
+    <link href="~/Content/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/style.css">
+    <link rel="stylesheet" href="~/Content/animate.min.css">
+    <link rel="stylesheet" href="~/Content/bootstrap-dropdownhover.min.css">
+    
+   
+
+</head>
+<body>
+    <!-- En Üst Kısım -->
+    
+    <div class="container" style="background:transparent ; margin-top : 0px ">
+        <div class="row">
+            <div class="col-md-4">
+                <ul id="dil" style="margin-top:90px ; margin-left:-30px">
+                    <li style="float:left ; font-size:15px" id="uyelik"><img style="max-height:20px ; max-width:20px;float:left" class="img-responsive" src="~/img/UnitedKingsom.png" />@Html.ActionLink("English", "ChangeCulture", "Home", new
+                                                                                                       {
+                                                                                                           lang = "en",
+                                                                                                           returnurl =
+this.Request.RawUrl
+                                                                                                       }, null)</li>
+                    <li style="float:left ; margin-right:3px ; margin-left:3px; color : gray ; cursor:pointer;font-size:15px">/</li>
+                    <li style="float:left ; font-size:15px" id="uyelik"><img style="max-height:20px ; max-width:20px;float:left" class="img-responsive" src="~/img/Turkey.png" />@Html.ActionLink("Türkçe", "ChangeCulture", "Home", new
+                                                                                                                                                                                   {
+                                                                                                                                                                                       lang = "tr",
+                                                                                                                                                                                       returnUrl =
+this.Request.RawUrl
+                                                                                                                                                                                   }, null)</li>
+                </ul>
+                
+               
+            </div>
+
+            <div class="col-md-4">
+
+                <div id="logo">
+                    <a href="http://localhost:59221/"><img style="width:100%!important;color:gray ; max-height:100px;min-height:120px" class="img-responsive" src="~/img/logoson.png" alt="" longdesc="" /></a>
+                </div>
+
+            </div>
+
+            <div class="col-md-4" id="uyeler" style="text-align:right ; top : 70px">
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+
+
+    <!-- /enustkisim -->
+    <!-- Navbar -->
+
+    <div class="container">
+        <nav class="navbar navbar-default">
+
+            <!-- Görünüm değiştiğinde gelecek olan iconlar vs. -->
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Navigationavigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <!-- Likler -->
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               @{
+                   Html.RenderAction("_Menu", "Home");
+                }
+                <form class="navbar-form navbar-right" role="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                    </div>
+                    <button type="submit" class="btn btn-default">@Salon3.Resources.Home.ara</button>
+                </form>
+
+            </div>
+        </nav>
+    </div>
+
+
+    @RenderBody();
+
+    <br /><br />
+    <div class="container" style="background:transparent">
+        <div class="navbar navbar-default" id="footer">
+            <div class="col-md-4">
+
+                <strong class="footerbaslik">@Salon3.Resources.Home.adres</strong><br /><br />
+                <p class="footeraltkisim">
+                    IceTheme, Inc.Yigir Sok. ,Coruh ev. ,A Blok ,Daire:1<br />
+                    P: (123) 456-7890
+                </p>
+                <p class="footeraltkisim">E-mail :</p><a href="mailto:#">selim@gmail.com</a>
+            </div>
+            <div class="col-md-4">
+
+                <strong class="footerbaslik">@Salon3.Resources.Home.abone</strong><br /><br />
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="E-mail" aria-describedby="sizing-addon2">
+                    <span class="input-group-addon" id="sizing-addon2"><span><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></span></span>
+                </div>
+                <br /><button type="button" class="btn btn-default btn-default active">@Salon3.Resources.Home.gonder</button>
+            </div>
+            <div class="col-md-4">
+
+
+                <strong class="footerbaslik">@Salon3.Resources.Home.sosyalmedya</strong><br /><br />
+                <div id="anasosyalmedia">
+                    <div class="sosyalmedia" id="face"><a href="#"><img class="img-responsive" src="~/img/SosyalMedia/64/facebook.png" alt="" longdesc="" /></a></div>
+                    <div class="sosyalmedia" id="tweet"><a href="#"><img class="img-responsive" src="~/img/SosyalMedia/64/tweet.png" alt="" longdesc="" /></a></div>
+                    <div class="sosyalmedia" id="filckr"><a href="#"><img class="img-responsive" src="~/img/SosyalMedia/64/flickr.png" alt="" longdesc="" /></a></div>
+                    <div class="sosyalmedia" id="link"><a href="#"><img class="img-responsive" src="~/img/SosyalMedia/64/linkedin.png" alt="" longdesc="" /></a></div>
+                    <div class="sosyalmedia" id="you"><a href="#"><img class="img-responsive" src="~/img/SosyalMedia/64/youtube.png" alt="" longdesc="" /></a></div>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+    <script src="~/Scripts/js.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap-dropdownhover.min.js"></script>
+</body>
+</html>

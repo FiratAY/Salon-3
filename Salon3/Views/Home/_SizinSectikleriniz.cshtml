@@ -1,0 +1,15 @@
+﻿  @{ 
+    Layout = null;
+}
+<br /><br />
+<div class="list-group">
+    @{ 
+        Salon3.Models.film f = new Salon3.Models.film();
+    }
+    <a href="#" class="list-group-item disabled">@Salon3.Resources.Home.sizinsectikleriniz</a>
+    @foreach (var item in ViewBag.film)
+    {
+        <a href="/Filmler/Detay/@item.filmID" class="list-group-item">@item.ad <span class="badge">@item.begeni</span></a>
+    }
+    
+</div>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8264281081c04be4948d2aa30bb90eec" Name="Diagram1">
+        <EntityTypeShape EntityType="sinemaModel.admin" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sinemaModel.film" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="sinemaModel.filmUye" Width="1.5" PointX="5.625" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="sinemaModel.haber" Width="1.5" PointX="2.875" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sinemaModel.resim" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sinemaModel.uye" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sinemaModel.yorum" Width="1.5" PointX="8.25" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="sinemaModel.FK_film_admin" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_haber_admin" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_filmUye_film" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_resim_film" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_yorum_film" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_filmUye_uye" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_resim_haber" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_yorum_haber" ManuallyRouted="false" />
+        <AssociationConnector Association="sinemaModel.FK_yorum_uye" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="sinemaModel.slayder" Width="1.5" PointX="8.625" PointY="1.125" />
+        <EntityTypeShape EntityType="sinemaModel.video" Width="1.5" PointX="6.5" PointY="2.375" />
+        <AssociationConnector Association="sinemaModel.FK_video_film" ManuallyRouted="true" >
+          <ConnectorPoint PointX="4.5" PointY="5.961817842625738" />
+          <ConnectorPoint PointX="5.5" PointY="9.5471596415201851" />
+          <ConnectorPoint PointX="6.5" PointY="3.3961348161299991" />
+        </AssociationConnector>
+        <EntityTypeShape EntityType="sinemaModel.Kategori" Width="1.5" PointX="7.375" PointY="9.875" />
+        <AssociationConnector Association="sinemaModel.FK_film_Kategori" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,19 @@
+﻿@{ 
+    Layout = null;
+}
+
+<ul class="nav navbar-nav ">
+    <li id="alttire">@Html.ActionLink(Salon3.Resources.Home.anasayfa, "Index", "Home")</li>
+    <li class="dropdown" id="alttire">
+        <a href="" class="dropdown-toggle" data-hover="dropdown" data-animations="lightSpeedIn  lightSpeedIn  lightSpeedIn  lightSpeedIn " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">@Salon3.Resources.Home.kategoriler<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            @foreach (var item in ViewBag.kategori)
+            {
+                <li><a href="/Kategori/Index/@item.kategoriID">@item.kategoriad</a></li>
+            }
+        </ul>
+    </li>
+    <li id="alttire">@Html.ActionLink(Salon3.Resources.Home.hakkimizda, "About", "Home")</li>
+    <li id="alttire">@Html.ActionLink(Salon3.Resources.Home.İletisim, "Contact", "Home")</li>
+</ul>
+

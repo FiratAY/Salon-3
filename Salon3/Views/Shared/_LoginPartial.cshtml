@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+
+        <ul class="nav navbar-nav navbar-right" style="margin-right:15px">
+            @if (User.Identity.GetUserName()== "selim@gmail.com" || User.Identity.GetUserName() == "firat@hotmail.com")
+            {
+                <li id="uyelik1"><a href="~/Admin/filmAdmin/Index">Admin</a></li>
+            }
+           
+            <li id="uyelik1">
+                @Html.ActionLink("Merhaba " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+            </li>
+            <li id="uyelik"><a href="javascript:document.getElementById('logoutForm').submit()">Çıkış Yap</a></li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right" style="margin-right : 0px">
+        <li id="uyelik1">@Html.ActionLink(Salon3.Resources.Home.uyeol, "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li id="uyelik">@Html.ActionLink(Salon3.Resources.Home.uyegirisi, "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+
+}

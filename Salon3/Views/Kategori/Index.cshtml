@@ -1,0 +1,77 @@
+﻿
+@{
+    ViewBag.Title = "KATEGORİ SAYFASI";
+}
+@helper foto(int id)
+{
+foreach (var item in ViewBag.resim)
+{
+    if (item.filmID == id)
+    {
+            <img style="max-height:120px ; min-height:120px ; width:100%!important " class="img-responsive" src="@item.yol" height="150" width="150" alt="" longdesc="" />
+    }
+}
+}
+
+<!DOCTYPE html>
+<html class="arkaplan" lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Salon 3</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/Content/bootstrap-theme.min.css">
+    <link href="~/Content/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/style.css">
+    <link rel="stylesheet" href="~/Content/animate.min.css">
+    <link rel="stylesheet" href="~/Content/bootstrap-dropdownhover.min.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+
+
+</head>
+
+<body>
+
+    @{
+        int i = 0;
+    }
+    <div class="container" id="kategoriler">
+  <ul id="liste">
+    @foreach (var item in ViewBag.filmler)
+    {
+        i++;
+
+        <li>
+            <div class="row">
+                <div class="col-md-2">
+                    @foto(item.filmID)
+                </div>
+                <div class="col-md-8">
+                    <h3><span style="font-size:40px ; font-family: Prociono ; color:gray">@i</span><a style="color:black" href="/Filmler/Detay/@item.filmID">  @item.ad</a><span style="font-size:18px ; margin-left:5px"></span></h3>
+                    <p id="kategori">
+                        @Salon3.Resources.Home.yonetmen : @item.yonetmen<br />
+                        @Salon3.Resources.Home.kayittarihi : @item.eklemeTarihi.ToString("dd MM yyyy")
+                    </p>
+                </div>
+                <div class="col-md-2">
+                    <div class="img-circle" id="imdbpuan"><p id="puan">@Math.Round(item.imdb, 1)<br /></p><span id="puan">/ 10</span><span id="puanyazi">PUAN</span></div>
+                </div>
+            </div>
+        </li>
+
+    }
+</ul>
+
+        <div id="sayfalama"></div>
+    </div>
+
+    <script src="~/Scripts/sayfalama.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap-dropdownhover.min.js"></script>
+
+</body>
+</html>

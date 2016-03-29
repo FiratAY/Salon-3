@@ -1,0 +1,32 @@
+﻿@{ 
+    Layout = null;
+  
+}
+@helper foto(int id) {
+foreach (var item in ViewBag.resim)
+{
+    if (item.filmID == id)
+    {
+            <img style="max-height : 100px; min-height : 100px ; width:100%!important"id="haftafilm" class="img-responsive" src="@item.yol" alt="" longdesc="" />
+    }
+}
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">@Salon3.Resources.Home.haftaninfilmleri</div>
+    @foreach (var item in ViewBag.film)
+    {
+        <div class="panel-body">
+            <div class="col-md-6">
+                <a href="/Filmler/Detay/@item.filmID" title="">
+                   @foto(item.filmID)
+                </a>
+            </div>
+            <div class="col-md-6">
+                <a href="/Filmler/Detay/@item.filmID"><h4>@item.ad </h4></a>
+                    
+               <h6>İMDB @Salon3.Resources.Home.puan: @Math.Round(item.imdb,1)</h6>
+            </div>
+        </div>
+    }
+</div>

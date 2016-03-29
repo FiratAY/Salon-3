@@ -1,0 +1,38 @@
+﻿@{
+    Layout = null;
+    Salon3.Models.film f = new Salon3.Models.film();
+}
+@helper foto(int id)
+{
+foreach (var item in ViewBag.resim)
+{
+    if (item.filmID == id)
+    {
+            <img style="max-height : 250px;min-height : 250px ;width : 100%!important" id="soneklenen" class="img-responsive" src="@item.yol" alt="" longdesc="" />
+    }
+}
+}
+    @foreach (var item in ViewBag.film)
+    {
+        <li>
+            <div class="row" style="background : white">
+                <div class="panel panel-danger">
+                    <div class="panel-heading"><a href="/Filmler/Detay/@item.filmID"><h4>@item.ad </h4></a></div>
+                    <div class="panel-body">
+                        <a href="/Filmler/Detay/@item.filmID" title="">
+                            @foto(item.filmID)
+                            <p>
+                                @item.ozet
+                            </p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </li>
+    }
+
+            
+
+
+
+

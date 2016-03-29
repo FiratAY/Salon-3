@@ -1,0 +1,86 @@
+﻿ @model IEnumerable<Salon3.Models.film>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3 style="text-align:center">Film Düzenle</h3><br />
+
+<p>
+    <button style="margin-left : 10px" type="button" class="btn btn-primary"><i class="fa fa-check"></i> @Html.ActionLink("Yeni Kayıt", "Create") </button>
+</p>
+
+
+
+<table class="table table-striped ">
+    <tr class="info">
+        <th>
+            Ad
+        </th>
+        <th>
+            Beğeni
+        </th>
+        <th>
+            Yönetmen
+        </th>
+        <th>
+            Vizyon
+        </th>
+        <th>
+            Ekleme Tarihi
+        </th>
+        <th>
+            IMDB
+        </th>
+        <th style="width:200px">
+           Özet
+        </th>
+        <th>
+            Admin
+        </th>
+        <th>
+           Kategori
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.begeni)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.yonetmen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vizyon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.eklemeTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.imdb)
+            </td>
+            <td style="max-width:200px!important ; overflow : hidden ; white-space : nowrap ; text-overflow : ellipsis">
+                @Html.DisplayFor(modelItem => item.ozet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.admin.ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kategori.kategoriad)
+            </td>
+            <td>
+                <button type="button" class="btn btn-info"><i class="fa fa-pencil-square-o"></i> @Html.ActionLink("Düzenle", "Edit", new { id = item.filmID }) </button>
+                <button type="button" class="btn btn-success"><i class="fa fa-wrench"></i> @Html.ActionLink("Detay", "Details", new { id = item.filmID }) </button>
+                <button type="button" class="btn btn-danger"><i class="fa fa-times"></i> @Html.ActionLink("Sil", "Delete", new { id = item.filmID }) </button>
+</td>
+        </tr>
+    }
+
+</table>
